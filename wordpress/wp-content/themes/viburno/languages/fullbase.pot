@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: viburno\n"
+"POT-Creation-Date: 2016-04-10 11:38+0100\n"
+"PO-Revision-Date: 2016-04-10 11:47+0100\n"
+"Last-Translator: dote <dotecsa@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:20
+msgid "404 Error"
+msgstr ""
+
+#: ../404.php:22
+msgid "The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr ""
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:25
+msgid "No Responses"
+msgstr ""
+
+#: ../comments.php:25
+msgid "1 Response"
+msgstr ""
+
+#: ../comments.php:25
+msgid "% Responses"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:50
+msgid "Submit Comment"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Comments RSS Feed"
+msgstr ""
+
+#: ../footer.php:68
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../footer.php:69
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../footer.php:72
+msgid "url viburno"
+msgstr ""
+
+#: ../footer.php:75
+msgid "Theme %s"
+msgstr "Theme %s"
+
+#: ../footer.php:75
+msgid "viburno"
+msgstr ""
+
+#: ../index.php:23
+msgid "Result for:"
+msgstr ""
+
+#: ../index.php:86 ../page.php:43 ../template-full-width.php:26 ../single.php:80
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../index.php:87
+msgid "Try to make a search..."
+msgstr ""
+
+#: ../page.php:36  ../template-full-width.php:19
+msgid "Read More..."
+msgstr ""
+
+#: ../searchform.php:14  ../searchform.php:15 ../header.php:65  ../header.php:66 
+msgid "Search for..."
+msgstr ""
+
+#: ../single.php:39
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr ""
+
+#: ../header.php:25
+msgid "Skip to the content"
+msgstr ""
+
+#: ../header.php:29 ../header.php:40 ../footer.php:17
+msgid "Home"
+msgstr ""
+
+#: ../header.php:54
+msgid "Menu"
+msgstr ""
+
+#: ../functions.php:138
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:140
+msgid "Add widgets here."
+msgstr ""
+
+#: ../functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:48
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:49
+msgid "Social"
+msgstr ""

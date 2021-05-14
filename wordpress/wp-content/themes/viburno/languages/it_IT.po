@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: viburno\n"
+"POT-Creation-Date: 2016-04-10 11:38+0100\n"
+"PO-Revision-Date: 2021-03-21 16:35+0100\n"
+"Last-Translator: DoTe <dotecsa@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"Language: it\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Questa pagina non è stata trovata."
+
+#: ../404.php:20
+msgid "404 Error"
+msgstr "Errore 404"
+
+#: ../404.php:22
+msgid "The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "La pagina che stai cercando non esiste, o è stata spostata. Per favore usa il menù o la ricerca qui sotto per cercare la pagina."
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Per favore non caricare questa pagina direttamente. Grazie!"
+
+#: ../comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Questo post è protetto da password. Inserisci la password per vedere i commenti."
+
+#: ../comments.php:25
+msgid "No Responses"
+msgstr "Nessun Commento"
+
+#: ../comments.php:25
+msgid "1 Response"
+msgstr "% Commento"
+
+#: ../comments.php:25
+msgid "% Responses"
+msgstr "% Commenti"
+
+#: ../comments.php:43
+msgid "Comment navigation"
+msgstr "Navigazione commenti"
+
+#: ../comments.php:44
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti meno recenti"
+
+#: ../comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Commenti più recenti &rarr;"
+
+#: ../comments.php:50
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: ../comments.php:50
+msgid "Submit Comment"
+msgstr "Invia Commento"
+
+#: ../comments.php:56
+msgid "Comments RSS Feed"
+msgstr "Rss Feed dei commenti"
+
+#: ../footer.php:68
+msgid "Proudly powered by %s"
+msgstr "Realizzato con %s"
+
+#: ../footer.php:69
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: ../footer.php:72
+msgid "url viburno"
+msgstr "https://dotecsa.altervista.org/theme-viburno/"
+
+#: ../footer.php:75
+msgid "Theme %s"
+msgstr "Theme %s"
+
+#: ../footer.php:75
+msgid "viburno"
+msgstr "viburno"
+
+#: ../index.php:23
+msgid "Result for:"
+msgstr "Risultati per:"
+
+#: ../index.php:86 ../page.php:43 ../template-full-width.php:26 ../single.php:80
+msgid "Sorry, no posts matched your criteria."
+msgstr "Spiacenti, nessun post corrisponde ai criteri selezionati."
+
+#: ../index.php:87
+msgid "Try to make a search..."
+msgstr "Prova con una ricerca..."
+
+#: ../page.php:36  ../template-full-width.php:19
+msgid "Read More..."
+msgstr "Leggi di più..."
+
+#: ../searchform.php:14  ../searchform.php:15 ../header.php:65  ../header.php:66
+msgid "Search for..."
+msgstr "Cerca..."
+
+#: ../single.php:39
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continua a leggere <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr "Carica un logo per sostituire il nome del sito e la descrizione nell'header"
+
+#: ../header.php:25
+msgid "Skip to the content"
+msgstr "Vai al contenuto principale"
+
+#: ../header.php:29 ../header.php:40 ../footer.php:17
+msgid "Home"
+msgstr "Pagina iniziale"
+
+#: ../header.php:54
+msgid "Menu"
+msgstr "Menu"
+
+#: ../functions.php:138
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../functions.php:140
+msgid "Add widgets here."
+msgstr "Aggiungi widgets."
+
+#: ../functions.php:47
+msgid "Primary"
+msgstr "Primary"
+
+#: ../functions.php:48
+msgid "Footer"
+msgstr "Footer"
+
+#: ../functions.php:49
+msgid "Social"
+msgstr "Social"
